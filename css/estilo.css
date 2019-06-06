@@ -9,6 +9,10 @@ h2 {
   font: bold 14px verdana, sans-serif;
 }
 
+#menu{
+	background-color: #D7D7D7
+}
+
 .figura1{
 	border: 1px solid black;
 	margin:  10px;

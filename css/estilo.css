@@ -41,3 +41,10 @@ h2 {
 	margin-top:10px;
 	float:left; 
 }
+
+#pie{
+	border:1px solid #B6B6B6;
+	background-color: #CEC9C9;
+	text-align: center;
+	padding: 20px;
+}
